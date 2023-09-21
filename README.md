@@ -31,11 +31,12 @@ MarS and MixS, are also evaluated using different choices of the gamma function.
 The results are stored in a .csv format file.
 
 How to use:
-1. Open the ExactScreening.Rproj file in RStudio.
-2. Source the SimulationStudy.R script.
-3. If RStudio is running on Windows, type "W" when prompted. Otherwise, type "O"
+1. Download and save the files to a single folder. 
+2. Open the ExactScreening.Rproj file in RStudio.
+3. Source the SimulationStudy.R script.
+4. If RStudio is running on Windows, type "W" when prompted. Otherwise, type "O"
 (see line 7 of SimulationStudy.R).
-4. The numerical results for the 16 examples will be generated sequentially, starting
+5. The numerical results for the 16 examples will be generated sequentially, starting
 from example 1. The user can change the order in which the examples are executed,
 and select which examples to run (see line 10 of the main script).
 
